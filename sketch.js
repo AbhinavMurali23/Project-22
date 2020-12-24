@@ -52,7 +52,7 @@ function draw() {
   packageSprite.y = packageBody.position.y;
 
   rectMode(CENTER);
-  rect(width/2,180,5,5);
+  rect(width/2,180,5,10);
 
   drawSprites();
  
